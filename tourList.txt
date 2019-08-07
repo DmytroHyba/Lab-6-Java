@@ -1,0 +1,5 @@
+price,date,name,typeOfTour,rating
+440.0,18.01,Spain,For family,OUTSOLD
+700.0,12.01,Egypt,For maximum rest,EXPENSIVE
+610.0,14.01,Portugal,For best rest,EXPENSIVE
+100.0,19.01,Russia,For vodka,CHEAP
